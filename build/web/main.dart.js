@@ -40812,7 +40812,7 @@ case 2:return A.K(o,r)}})
 return A.M($async$kX,r)}}
 A.UM.prototype={}
 A.nB.prototype={
-gke(){return"assets/bg.png"},
+gke(){return"assets/bg.jpg"},
 vl(a){var s,r={},q=a.a
 if(q==null)q=$.HE()
 r.a=r.b=null
@@ -52920,7 +52920,7 @@ Ju(a){$.Z5().l(0,this,a)}}
 A.oV.prototype={
 az(){return new A.D4(B.p)}}
 A.D4.prototype={
-U(a){var s=null,r=$.at().Cv(10,10,B.ci),q=t.eE
+U(a){var s=null,r=$.at().Cv(0,0,B.ci),q=t.eE
 return new A.qH(A.S8(B.aB,A.a([B.xO,A.a9A(new A.we(B.fZ,B.nB,B.eU,B.i2,s,B.fI,s,A.a([B.dv,B.Jl,B.dv,A.a40(A.a([B.Jo,A.Ow(A.M7(s,B.Jn,B.aI,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.Vh(),s,s,s),B.fx,s,s)],q),B.B4,B.eU),B.dv,B.Jp,B.dv,A.Ow(A.M7(s,B.Jm,B.aI,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.Vi(),s,s,s),B.fx,s,s)],q),s),r)],q),B.Ey),s)}}
 A.Vh.prototype={
 $0(){A.YM(A.Gu(null,"info@randsburgproject.com",null,"mailto"))},
